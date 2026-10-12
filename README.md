@@ -1,138 +1,175 @@
-👋 Hi, I'm Axel Xiberras
+# 🎨 Axel Xiberras
+### UX/UI Designer & Product Designer
+
+<p align="center">
+  <b>🇫🇷 French designer</b><br>
+  Product Design · UX/UI · Game Interfaces 🎮<br>
+  Design Systems · AI-assisted workflows 🤖
+</p>
 
-🎨 UX/UI Designer · Product Designer · Digital Experiences
+<p align="center">
+  <a href="https://axel-xiberras-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20my%20work-E94B3C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:axel.xiberras@outlook.com">
+    <img src="https://img.shields.io/badge/EMAIL-Get%20in%20touch-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
+  </a>
+</p>
 
-I'm a French UX/UI Designer with a background in interactive design, passionate about creating intuitive, accessible, and engaging digital experiences.
+---
 
-My work spans product design, game UI, responsive web experiences, and design systems, combining user-centered thinking, visual craft, and close collaboration with product and engineering teams.
+## 🧩 My Skills
 
-🎓 Master's degree in Interactive Design — Gobelins, Paris
+### 🎨 Design & Prototyping
 
-🌐 Portfolio · ✉️ Email me
+<p>
+  <img src="https://img.shields.io/badge/FIGMA-Design%20%26%20Prototyping-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/SKETCH-UI%20Design-F7B500?style=for-the-badge&logo=sketch&logoColor=black" alt="Sketch">
+  <img src="https://img.shields.io/badge/AFTER%20EFFECTS-Motion-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects">
+</p>
 
-🚀 What I Do
+**UX Design**
+- User journeys & information architecture
+- Wireframing & prototyping
+- Interaction design & usability
+- Accessibility & responsive experiences
 
-🧭 UX Design — User journeys, information architecture, wireframes, prototyping, and interaction design.
+**UI Design**
+- High-fidelity interfaces
+- Visual systems & interaction details
+- Cross-platform design
+- Interface consistency & design quality
 
-🎨 UI Design — High-fidelity interfaces, visual systems, responsive layouts, and interaction details.
+### 🧱 Design Systems
 
-🧩 Design Systems — Component libraries, design tokens, typography, color systems, documentation, and consistency.
+<p>
+  <img src="https://img.shields.io/badge/COMPONENTS-Reusable%20UI-6C63FF?style=for-the-badge" alt="Reusable components">
+  <img src="https://img.shields.io/badge/DESIGN%20TOKENS-Consistency-009688?style=for-the-badge" alt="Design tokens">
+  <img src="https://img.shields.io/badge/DOCUMENTATION-Guidelines-34495E?style=for-the-badge" alt="Documentation">
+</p>
 
-🎮 Game UI/UX — Gameplay interfaces, HUDs, navigation systems, menus, and cross-platform experiences.
+- Component libraries and variants
+- Typography, color palettes & visual rules
+- Asset organization and standardization
+- Design-to-development collaboration
 
-🤝 Design × Engineering — Working closely with developers to bridge design intent and technical implementation.
+### 🎮 Game UI/UX
 
-🤖 AI-Assisted Design — Exploring Figma agents and AI tools to support design exploration, standardization, and iteration.
+<p>
+  <img src="https://img.shields.io/badge/GAME%20UI-HUD%20%26%20Menus-8E44AD?style=for-the-badge" alt="Game UI">
+  <img src="https://img.shields.io/badge/UNREAL%20ENGINE-Game%20Development-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine">
+  <img src="https://img.shields.io/badge/BLENDER-3D%20Design-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
+</p>
 
-💼 Selected Experience
+- Gameplay interfaces and HUDs
+- Minimap and objective navigation
+- Menus, tutorials and player feedback
+- Mobile, desktop and cross-platform experiences
 
-Company
+### 🖼️ Creative Tools
 
-Focus
+<p>
+  <img src="https://img.shields.io/badge/PHOTOSHOP-Image%20Editing-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop">
+  <img src="https://img.shields.io/badge/ILLUSTRATOR-Vector%20Design-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator">
+  <img src="https://img.shields.io/badge/INDESIGN-Publishing-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="InDesign">
+  <img src="https://img.shields.io/badge/PREMIERE%20PRO-Video-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere Pro">
+</p>
 
-Oddus / Lobbah
+### 🤖 AI & Emerging Workflows
 
-Game UI/UX, design systems, and AI-assisted workflows
+<p>
+  <img src="https://img.shields.io/badge/AI%20ASSISTED%20DESIGN-Exploration-7D5FFF?style=for-the-badge" alt="AI-assisted design">
+  <img src="https://img.shields.io/badge/FIGMA%20AGENTS-Workflow%20Support-9747FF?style=for-the-badge" alt="Figma agents">
+</p>
 
-Gameloft Paris
+- AI-assisted design exploration and iteration
+- Design standardization and measurement
+- Workflow optimization and creative experimentation
 
-Mobile, desktop, and Apple TV game experiences
+---
 
-Ministry of Economy and Finance
+## 💼 My Experience
 
-Digital public services, usability, and accessibility
+| Role | Organization |
+|:---|:---|
+| UX/UI Designer | Oddus / Lobbah |
+| UX/UI Designer | Gameloft Paris |
+| UX/UI Designer | Ministry of Economy and Finance |
+| UX/UI & Web Designer | Fullsix |
+| Junior UX/UI Designer | Ubisoft Paris |
 
-Fullsix
+---
 
-Responsive web interfaces and digital experiences
+## 🚀 Selected Work
 
-Ubisoft Paris
+### 🎮 Family Feud Pocket — Gameloft
 
-Early experience in AAA game UI/UX
+UX/UI design for a game spanning mobile, desktop and Apple TV.
 
-🛠️ Skills & Tools
+- Game modes, wireframes and high-fidelity mockups
+- Multiplayer matchmaking and match settings
+- Tutorials and daily reward flows
+- Cross-platform interface consistency
 
-🎨 Design & Prototyping
+🔗 [View my portfolio](https://axel-xiberras-portfolio.vercel.app/)
 
+### 🕹️ Samla — Oddus / Lobbah
 
+Game UI/UX design focused on gameplay clarity and reusable interface systems.
 
+- HUD and objective navigation
+- Minimap feedback and gameplay indicators
+- Design System components and guidelines
+- Collaboration with developers
 
+🔗 [View my portfolio](https://axel-xiberras-portfolio.vercel.app/)
 
-🖼️ Creative Software
+### 🏛️ Digital Public Services
 
+UX/UI work focused on improving internal digital services.
 
+- User-centered interface design
+- Usability and accessibility
+- Simplifying user journeys
+- Collaboration with developers and data scientists
 
+🔗 [View my portfolio](https://axel-xiberras-portfolio.vercel.app/)
 
+---
 
+## 🎓 Education
 
-🎮 3D & Game Development
+**Gobelins, l'École de l'Image — Paris**  
+Master's Degree in Interactive Design · 2022–2024
 
+**Gobelins, l'École de l'Image — Paris**  
+Bachelor's Degree in UX/UI & Web Design · 2019–2022
 
+**Penninghen — Paris**  
+Preparatory Studies in Design & Interior Architecture · 2018–2019
 
+---
 
-🧠 Core Competencies
+## 🌍 Languages
 
-UX Research · User Flows · Wireframing · Prototyping · Interaction Design · Design Systems · Responsive Design · Accessibility · Cross-Platform UX · Motion Design · Creative Problem Solving · Product Collaboration
-
-🎯 Selected Projects
-
-🎮 Family Feud Pocket — Gameloft
-
-UX/UI design for a cross-platform game experience across mobile, desktop, and Apple TV.
-
-Wireframes and high-fidelity mockups for multiple game modes.
-
-Multiplayer matchmaking and match settings.
-
-Tutorial experiences and daily login reward flows.
-
-Interface refinements and cross-platform consistency.
-
-🔗 Explore my portfolio
-
-🕹️ Samla — Oddus / Lobbah
-
-UX/UI design for a game in early access, with a focus on interface systems and gameplay usability.
-
-HUD and gameplay interface design.
-
-Objective navigation and minimap feedback.
-
-Reusable components and design system development.
-
-Collaboration with developers to support implementation.
-
-🔗 Explore my portfolio
-
-🏛️ Digital Public Services — Ministry of Economy and Finance
-
-UX/UI work on internal digital projects focused on improving public services.
-
-User journeys and interface design.
-
-Simplification of digital experiences.
-
-Accessibility and usability considerations.
-
-Cross-functional collaboration with developers and data scientists.
-
-🔗 Explore my portfolio
-
-🌍 Languages
-
-🇫🇷 French — Native
-
-🇬🇧 English — Bilingual
-
-🇰🇷 Korean — Beginner
-
+🇫🇷 French — Native  
+🇬🇧 English — Bilingual  
+🇰🇷 Korean — Beginner  
 🇪🇸 Spanish — Beginner
 
-🤝 Let's Connect
+---
 
-I'm always interested in meaningful digital products, thoughtful design systems, and collaborations that bring design and technology together.
+## 🤝 My Network
 
-🌐 Portfolio
-✉️ axel.xiberras@outlook.com
+<p align="center">
+  <a href="https://axel-xiberras-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-Explore%20my%20work-E94B3C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:axel.xiberras@outlook.com">
+    <img src="https://img.shields.io/badge/EMAIL-Let's%20connect-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
+  </a>
+</p>
 
-<sub>Designed with curiosity, empathy, and attention to detail.</sub>
+<p align="center">
+  <i>Designing digital experiences where usability meets visual craft.</i>
+</p>
